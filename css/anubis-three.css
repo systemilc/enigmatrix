@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+    text-align: center;
+    background-image:url(../images/enigma--anubis.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position:top;
+}
+header {
+    display:flex;
+    justify-content: left;
+    align-items: flex-start;
+    font-size: 30px;
+    color: #fff64d;
+    margin-left: 10px;
+}
+h2 {
+    background-color: rgba(197, 167, 61, 0.495);
+    color:rgb(0, 0, 0); 
+    border-radius: 20px;
+    margin-top: 450px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+button {
+    background-color: rgb(0, 0, 0);
+    color: #fff64d;
+    border-radius: 10px;
+    border-style:solid;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 10px;
+}
+

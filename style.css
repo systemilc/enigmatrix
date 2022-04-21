@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    background-image:url(images/interface.jpeg);
+}
+h1 {
+    background: #000000;
+    color: rgb(255, 187, 0);
+    padding: 10px;
+    text-align: start;
+}
+h2 {
+    background: #d6b46bd7;
+    height: 25vh;
+    border-radius: 50px;
+    margin: 20px;
+    margin-top: 50px;
+    padding: 25px;
+}
+h3 {
+    text-align: center;
+    font-size: 20px;
+    background: rgba(0, 0, 0, 0.717);
+    border-radius: 50px;
+    color:khaki;
+    padding: 10px;
+    margin-top: 10px;
+    display:inline-block;
+}
+ul {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+.personagens {
+    font-size: 35px;
+    padding: 30px;
+    margin-top: 15px;
+    background: #b86636d3;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    border-style: solid;
+}
+button {
+    background: #000000;
+    color: blanchedalmond;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: bisque;
+}
