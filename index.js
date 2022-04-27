@@ -7,11 +7,11 @@ function pergunta () {
             break
     }
     else if (resposta == 2) {
-        window.location.href='./horus-one.html'
+        window.location.href='./html/horus-one.html'
             break
     }
     else if (resposta == 3) {
-        window.location.href='../bastet-one.html'
+        window.location.href='./html/bastet-one.html'
             break
     }
     else {
