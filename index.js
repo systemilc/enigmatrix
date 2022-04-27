@@ -3,15 +3,15 @@ function pergunta () {
     while (resposta != 1 || resposta != 2 || resposta != 3) {
         resposta = prompt ("Digite o número do personagem que deseja escolher.")
         if (resposta == 1) {
-            window.location.href='../html/anubis_one.html'
+            window.location.href='./html/anubis_one.html'
             break
     }
     else if (resposta == 2) {
-        window.location.href='../html/horus_one.html'
+        window.location.href='./horus_one.html'
             break
     }
     else if (resposta == 3) {
-        window.location.href='../html/bastet_one.html'
+        window.location.href='../bastet_one.html'
             break
     }
     else {
