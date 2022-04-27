@@ -3,7 +3,7 @@ function pergunta () {
     while (resposta != 1 || resposta != 2 || resposta != 3) {
         resposta = prompt ("Digite o número do personagem que deseja escolher.")
         if (resposta == 1) {
-            window.location.href='../anubis-one.html'
+            window.location.href='../html/anubis-one.html'
             break
     }
     else if (resposta == 2) {
